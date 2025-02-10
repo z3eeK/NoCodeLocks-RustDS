@@ -2,7 +2,7 @@
 
 English
 
-# NoCodeLocks-RustDS
+# NoCodeLocks-RustDS [![GitHub License](https://img.shields.io/github/license/z3eeK/DailyRestart-RustDS)](LICENSE)
 
 Blocks crafting of code locks. 
 
