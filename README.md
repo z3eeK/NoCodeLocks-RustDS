@@ -6,4 +6,5 @@ English
 
 Blocks crafting of code locks. 
 
+> [!NOTE] 
 > Note: Intended for solo only servers. Hostname must contain 'solo only'.
